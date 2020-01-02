@@ -1,0 +1,3 @@
+Isomap is a nonlinear dimensionality reduction method. 
+The algorithm provides a simple method for estimating the intrinsic geometry of a data manifold based on a rough estimate 
+of each data point’s neighbours
